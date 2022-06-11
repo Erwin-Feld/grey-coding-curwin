@@ -1,0 +1,21 @@
+{
+    "name": "grey-coding-curwin",
+    "displayName": "grey coding curwin",
+    "description": "grey color theme for coding",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "grey coding curwin",
+                "uiTheme": "vs",
+                "path": "./themes/grey coding curwin-color-theme.json"
+            }
+        ]
+    }
+}
